@@ -5,6 +5,7 @@ The Workforce Analytics & Attrition Dashboard is a Power BI project designed to 
 
 This dashboard helps organizations make data-driven HR decisions by identifying patterns in employee behavior, performance, and turnover.
 
+
 🎯 Objectives
 Analyze employee attrition trends
 Identify key drivers of employee turnover
